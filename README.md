@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my profile
+
+Computer Science Graduate, City College International Faculty of the University of Sheffield.
+
+📫 How to reach me: via email of course!
 
 <!--
 **Damian96/Damian96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
