@@ -1,8 +1,11 @@
 ### Welcome to my profile
 
-Computer Science Graduate, City College International Faculty of the University of Sheffield.
+Full-Stack Web Developer, Computer Science Graduate of City College International Faculty of the University of Sheffield.
 
-📫 How to reach me: via email of course!
+- 🌱 I’m currently learning Angular, TypeScript, Docker
+- 💬 Ask me about anything that has to do with front-end web development
+- 📫 You can reach me via e-mail at damgiankakis[at]gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **Damian96/Damian96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
