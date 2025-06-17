@@ -3,7 +3,7 @@
 Full-Stack Web Developer, Computer Science Graduate of City College International Faculty of the University of Sheffield.
 
 - 🌱 I’m currently learning Angular, TypeScript, Docker
-- 💬 Ask me about anything that has to do with front-end web development
+- 💬 Ask me about anything that has to do with web development
 - 📫 You can reach me via e-mail at damgiankakis[at]gmail.com
 - 😄 Pronouns: he/him
 
